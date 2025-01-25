@@ -1,0 +1,18 @@
+{
+  "name": "cicerovoice",
+  "version": "1.0.0",
+  "description": "Çiçero Ekibi İçin Yapılan Tokenleri Seste Tutma Uygulaması",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run client"
+  },
+  "keywords": [
+    "cicero"
+  ],
+  "author": "euseadev",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.5.3",
+    "eusea.db": "^0.0.8"
+  }
+}
